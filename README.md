@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on being a better version of myself.
 
-⚡ Fun fact: I play musical instruments effortlessly 😄
+⚡ Fun fact: I play selected musical instruments effortlessly 😄
 
 <!--
 **adisamicheal/adisamicheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
