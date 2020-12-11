@@ -1,6 +1,7 @@
 ### Hi there 👋 Micheal here, a human 😄.
 
 🔭 I’m currently working on being a better version of myself.
+
 ⚡ Fun fact: I play musical instruments effortlessly 😄
 
 <!--
