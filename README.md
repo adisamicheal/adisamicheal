@@ -1,8 +1,11 @@
 ### Hi there 👋 Micheal here, a human 😄.
 
-🔭 I’m currently working on being a better version of myself.
+🔭 I’m working daily, on being a better version of myself.
+
+📫 How to reach me: email me at adisamicheal20@gmail.com
 
 ⚡ Fun fact: I play selected musical instruments effortlessly 😄
+
 
 <!--
 **adisamicheal/adisamicheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
