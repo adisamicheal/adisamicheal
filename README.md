@@ -1,6 +1,8 @@
-### Hi there 👋 Micheal here, a human 😄.
+### Hi there 👋 Micheal ✨ here, a human 😄.
 
 🔭 I’m working daily, on being a better version of myself.
+
+🌱 I write articles on my blog https://michellead.hashnode.dev/
 
 📫 How to reach me: email me at adisamicheal20@gmail.com
 
